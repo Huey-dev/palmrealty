@@ -89,17 +89,17 @@ const Hero = () => {
           {/* Center content */}
           <div className="lg:w-1/2 mb-8 lg:mb-0 ml-[300px] absolute flex-col space-y-4 flex justify-center items-center">
             <div className="grid grid-cols-1 gap-4">
-              <img
+              <Image
                 className="h-auto object-cover rounded-lg"
                 src="/sipbtn.png"
                 alt="Team working"
               />
-              <img
+              <Image
                 className="h-auto object-cover rounded-lg"
                 src="/sipbtn2.png"
                 alt="Team working"
               />
-              <img
+              <Image
                 className="h-auto object-cover rounded-lg"
                 src="/sipbtn3.png"
                 alt="Team working"

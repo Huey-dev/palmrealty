@@ -9,10 +9,10 @@ const Home = () => {
 
       <div className="bg-white rounded-lg p-8 mt-20 mx-auto max-w-2xl text-center">
         <p className="text-lg mb-4">
-          "Nigeria and Africa has a massive network effect that have not be
+        &quot;Nigeria and Africa has a massive network effect that have not be
           fully utilized. With Nigerians/Africans in every country and territory
           of the world, we can scale an African business to 100+ countries in
-          few weeks"
+          few weeks&quot;
         </p>
         <p className="text-sm font-bold">
           Daniel Izeghs Oratokha <br />

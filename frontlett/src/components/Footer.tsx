@@ -1,5 +1,5 @@
 import React from "react";
-
+import Image from "next/image";
 const Footer = () => {
   return (
     <footer className="bg-[#212121] text-white p-8">
@@ -25,7 +25,7 @@ const Footer = () => {
       </form>
       <div className="max-w-7xl mt-20 mx-auto flex flex-col md:flex-row justify-between">
         <div className="mb-8 md:mb-0">
-          <img src="/SINC LOGO white outline 1.png" alt="" />
+          <Image src="/SINC LOGO white outline 1.png" alt="" />
           <p className="mb-4 grid">
             SINC Partners is a service <br /> incubation company connecting{" "}
             <br /> experts in product development <br /> and growth marketing
@@ -82,8 +82,8 @@ const Footer = () => {
                 <h1>Plikadelphia, USA</h1>
               </div>
               <div className="flex mt-4">
-                <img src="/Outline ABA+ 1.png" alt="" />
-                <img src="whatsapp.png" className="bottom-0" alt="" />
+                <Image src="/Outline ABA+ 1.png" alt="" />
+                <Image src="whatsapp.png" className="bottom-0" alt="" />
               </div>
             </div>
           </div>
