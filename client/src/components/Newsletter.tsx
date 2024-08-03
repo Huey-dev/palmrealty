@@ -7,7 +7,7 @@ const Newsletter = () => {
         <h2 className="text-4xl text-white font-semibold">Newsletter</h2>
       </div>
       <p className="mb-8 text-xs text-white font-extralight">
-        Get the latest about SINC Partners, our startup incubator program,
+        Get the latest about Palmrealty partners, our startup incubator program,
         Portfolio company offerings - straight into your inbox.
       </p>
       <form className="flex">
